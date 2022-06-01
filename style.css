@@ -1,0 +1,12 @@
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif; color: aquamarine; text-align: center
+}
+p{
+    font-style: oblique; padding-left: 30px 
+}
+#single{
+padding-left: 40px; box-sizing: border-box
+}
+div{
+    background-color: aqua; width: 30px; border: 15px solid green; padding: 40px; margin: 60px
+}
